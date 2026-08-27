@@ -12,6 +12,9 @@
 
 <body x-data="testingPage()">
     <h1>For testing</h1>
+
+    <h1>Joe Developer Page</h1>
+    <p>This page was created by Developer A.</p>
 </body>
 
 </html>
