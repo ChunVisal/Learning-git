@@ -13,6 +13,9 @@
 <body x-data="productForm()">
     <h1>Products</h1>
 
+    <h1>Joe 2 Developer Page</h1>
+    <p>This page was created by Developer B.</p>
+
     <a href="{{ route('products.stock-movements') }}">View All Stock Movements</a>
 
     @if (session('success'))
